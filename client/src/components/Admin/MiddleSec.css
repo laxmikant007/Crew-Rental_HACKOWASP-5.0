@@ -1,0 +1,17 @@
+.role-selection-middlesec{
+    border : 2px solid red;
+    max-width: 90%;
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #eef3f7;
+    /* border : 2px solid red; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 50px;
+
+    
+
+
+
+}
